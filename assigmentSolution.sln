@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assigment", "assigment\assi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assigment 3", "assigment 3\assigment 3.csproj", "{4F81656A-D643-4922-AEDA-053FC8DED776}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assigmengt 4", "assigmengt 4\assigmengt 4.csproj", "{71F04627-C605-4FC9-A77C-734C8E488476}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4F81656A-D643-4922-AEDA-053FC8DED776}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F81656A-D643-4922-AEDA-053FC8DED776}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F81656A-D643-4922-AEDA-053FC8DED776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71F04627-C605-4FC9-A77C-734C8E488476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71F04627-C605-4FC9-A77C-734C8E488476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71F04627-C605-4FC9-A77C-734C8E488476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71F04627-C605-4FC9-A77C-734C8E488476}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
